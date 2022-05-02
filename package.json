@@ -1,0 +1,16 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "js6": "node script_6.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fecth": "0.0.1-security",
+    "node-fetch": "^3.2.4"
+  }
+}
